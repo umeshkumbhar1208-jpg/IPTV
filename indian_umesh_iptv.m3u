@@ -337,3 +337,5 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri" tvg-name="Sangeet Bhojpuri" group-title="Entertainment",Sangeet Bhojpuri
 https://watcholive2-ent.akamaized.net/bpk-tv/Sangeetbhojpuri2/default/index.m3u8?hdnts=st=1782590377~exp=1782611977~acl=!*/bpk-tv/Sangeetbhojpuri2/default/*!/payload/yupptvott_61_-1_baae0055-3991-47e6-d6e6-c7fc22e3bbc2_IN_106.78.37.70_dishtv_1_channel_42_-1/*~data=yupptvott_61_-1_baae0055-3991-47e6-d6e6-c7fc22e3bbc2_IN_106.78.37.70_dishtv_1_channel_42_-1~hmac=29dbf98c2e690df845dc0bf6945961fdb601d2be63973182698864f0d38043a2
+#EXTINF:-1 tvg-id="DangalTV" tvg-name="Dangal TV" group-title="Hindi Entertainment",Dangal TV Live
+https://allinonerecharge.com/live/dangal.m3u8
