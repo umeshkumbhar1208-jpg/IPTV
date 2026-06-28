@@ -357,3 +357,10 @@ http://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 http://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood" tvg-name="Shemaroo Bollywood" group-title="Hindi Movies",Shemaroo Bollywood
 https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-62d1a58e520656fda09e609d.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=2KCzEvZHRyQ4Poy-kyfM&includeAllStreams=1&redirectedFromV6=1
+#EXTM3U
+
+#EXTINF:-1 tvg-id="History TV18" tvg-name="History TV18" tvg-logo="https://i.imgur.com/vHdfRRE.png" group-title="Knowledge",History TV18 (Hindi)
+https://jiotvlive.media/bpk-tv/History_TV18_HD_vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-name="History TV18 HD" tvg-logo="https://i.imgur.com/vHdfRRE.png" group-title="Knowledge",History TV18 HD (Hindi)
+https://linearjm.akamaized.net/v1/master/3722c60ec5693466f272a27a69632f05634b07fe/HistoryTV18HD/master.m3u8
