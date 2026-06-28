@@ -343,3 +343,5 @@ http://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 http://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EpicTVDangal" tvg-name="Epic TV Dangal" group-title="Hindi Entertainment",Epic TV Dangal
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 tvg-id="FaktMarathi" tvg-name="Fakt Marathi" group-title="Marathi Entertainment",Fakt Marathi
+http://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
