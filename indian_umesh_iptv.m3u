@@ -334,6 +334,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aaj Tak HD (IN)
 #EXTGRP:News
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="DangalTV" tvg-name="Dangal TV" group-title="Hindi Entertainment",Dangal TV Live
-https://sec.v.idmp.akamaized.net/hls/live/2042784/dangal/master.m3u8
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u
+#EXTINF:-1 tvg-id="DDSahyadri" tvg-name="DD Sahyadri" group-title="Marathi",DD Sahyadri Live
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
