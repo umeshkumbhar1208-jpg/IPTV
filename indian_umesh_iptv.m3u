@@ -339,3 +339,5 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri" tvg-name="Epic Bhojpuri" group-title="Bhojpuri Movies",Epic Bhojpuri
 http://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="EpicMusic" tvg-name="Epic Music" group-title="Music",Epic Music
+http://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
