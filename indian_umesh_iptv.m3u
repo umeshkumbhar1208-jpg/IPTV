@@ -347,3 +347,5 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane" tvg-name="Shemaroo Filmi Gaane" group-title="Music",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh" tvg-name="Shemaroo Josh" group-title="Hindi Entertainment",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
