@@ -389,7 +389,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 #EXTINF:-1 tvg-id="SteelbirdMusicTV" tvg-name="Steelbird Music TV" group-title="Music",Steelbird Music TV
 #EXTGRP:Music
 http://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 tvg-id="Star.Plus" tvg-logo="https://raw.githubusercontent.com/images/star-plus.png" group-title="Entertainment",Star Plus
 #EXTGRP:Entertainment
 http://cors.globetv.app/http://41.205.93.154/STAR-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic" tvg-name="Epic Music" group-title="Music",Epic Music
@@ -398,3 +397,5 @@ http://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane" tvg-name="Shemaroo Filmi Gaane" group-title="Music",Shemaroo Filmi Gaane
 #EXTGRP:Music
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="Star.Plus" tvg-logo="https://raw.githubusercontent.com/images/star-plus.png" group-title="Entertainment",Star Plus
+http://cors.globetv.app/http://41.205.93.154/STAR-PLUS/index.m3u8
