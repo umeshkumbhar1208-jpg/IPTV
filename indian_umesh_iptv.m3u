@@ -363,3 +363,5 @@ https://jiotvlive.media/bpk-tv/History_TV18_HD_vtt/index.m3u8
 https://linearjm.akamaized.net/v1/master/3722c60ec5693466f272a27a69632f05634b07fe/HistoryTV18HD/master.m3u8
 #EXTINF:-1 tvg-id="Epic.Music" tvg-logo="https://raw.githubusercontent.com/images/epic-music.png" group-title="Music",Epic Music
 http://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Shemaroo.Filmi.Gaane" tvg-logo="https://raw.githubusercontent.com/images/shemaroo-filmi-gaane.png" group-title="Music",Shemaroo Filmi Gaane
+http://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
