@@ -398,4 +398,5 @@ http://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTGRP:Music
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="Star.Plus" tvg-logo="https://raw.githubusercontent.com/images/star-plus.png" group-title="Entertainment",Star Plus
-http://cors.globetv.app/http://41.205.93.154/STAR-PLUS/index.m3u8
+http://41.205.93.154/STAR-PLUS/index.m3u8
+
