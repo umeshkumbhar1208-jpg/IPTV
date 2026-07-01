@@ -361,8 +361,3 @@ https://epg-ipv4.provider.plex.tv/library/parts/698f7631338300003d436270-62d1a58
 http://cors.globetv.app/http://41.205.93.154/STAR-PLUS/index.m3u8
 #EXTINF:-1,Bhakti Play TV
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/215875f5-ef69-49f0-9189-c35af686fa29/74180305-13b8-433a-8363-da7d61c4a932/2.m3u8
-#EXTINF:-1 group-title="Entertainment",Star Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://globetv.app
-#EXTVLCOPT:http-referrer=https://globetv.app/
-https://cors.globetv.app/http://41.205.93.154/STAR-PLUS/index.m3u8
