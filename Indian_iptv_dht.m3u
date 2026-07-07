@@ -601,3 +601,5 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-logo="" group-title="Movies", Hindi Movies 24x7
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-logo="" group-title="Entertainment", Bhakti Play TV
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/215875f5-ef69-49f0-9189-c35af686fa29/74180305-13b8-433a-8363-da7
