@@ -637,3 +637,10 @@ https://jmp2.uk/stvp-IN460000313
 https://jmp2.uk/stvp-IN46000105Q
 #EXTINF:-1 tvg-id="IN3000003QJ" tvg-name="Foodxp" group-title="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20260623T014921SQUARE.png",Foodxp
 https://jmp2.uk/stvp-IN3000003QJ
+#EXTINF:-1 tvg-id="AT1400001YL" tvg-name="Zee TV HD DE" group-title="Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1400001YL_20260127T040731SQUARE.png",Zee TV HD DE
+https://jmp2.uk/stvp-AT1400001YL
+#EXTINF:-1 tvg-id="22603" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="Kids",Pogo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
+#KODIPROP:mimetype=application/dash+xml
+https://login.bheem.tv/bpk-tv/22603/output/index.mpd?
