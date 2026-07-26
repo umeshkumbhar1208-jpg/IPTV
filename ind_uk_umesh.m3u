@@ -380,31 +380,31 @@ http://202.70.146.135:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="Nick.Hindi.in" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-language="Hindi" group-title="Kids",Nick Hindi
 #EXTGRP:Kids
 http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-language="Hindi" group-title="Kids",Sonic Hindi
+#EXTINF:-1 tvg-id="Sonic.Hindi.in" tvg-name="Sonic Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-language="Hindi" group-title="Kids",Sonic Hindi
 #EXTGRP:Kids
 http://202.70.146.135:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="Disney.channel.in" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" group-title="Kids",Disney Channel
 #EXTGRP:Kids
 http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="3385" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids",Epic Kids
+#EXTINF:-1 tvg-id="Epic Kids.in" tvg-name="Epic Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" tvg-language="Hindi" group-title="Kids",Epic Kids
 #EXTGRP:Kids
 http://103.159.180.34:5001/live/3385.m3u8
-#EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" tvg-language="Hindi" group-title="Kids",Green Gold TV
+#EXTINF:-1 tvg-id="Green.Gold.TV.in" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" tvg-language="Hindi" group-title="Kids",Green Gold TV
 #EXTGRP:Kids
 https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
-#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" tvg-language="Hindi" group-title="Infotainment",History TV18 HD Hindi
+#EXTINF:-1 tvg-id="History.TV18.HD.Hindi." tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" tvg-language="Hindi" group-title="Infotainment",History TV18 HD Hindi
 #EXTGRP:Infotainment
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="825" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" tvg-language="English" group-title="Infotainment",Sony BBC Earth HD English
+#EXTINF:-1 tvg-id="Sony.BBC.Earth.HD.English.in" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" tvg-language="English" group-title="Infotainment",Sony BBC Earth HD English
 #EXTGRP:Infotainment
 http://202.70.146.135:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="1332" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" tvg-language="English" group-title="Infotainment",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="Net.Geo.Wild.HD.in" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" tvg-language="English" group-title="Infotainment",Nat Geo Wild HD
 #EXTGRP:Infotainment
 http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" tvg-language="English" group-title="Infotainment",National Geographic HD
 #EXTGRP:Infotainment
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" tvg-language="Hindi" group-title="Infotainment",Discovery HD Hindi
+#EXTINF:-1 tvg-id="Discovery.HD.Hindi.in" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" tvg-language="Hindi" group-title="Infotainment",Discovery HD Hindi
 #EXTGRP:Infotainment
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMarathi.png" tvg-language="Marathi" group-title="Infotainment",discovery science
@@ -428,10 +428,10 @@ http://103.159.180.34:5001/live/742.m3u8
 #EXTINF:-1 tvg-id="903" tvg-name="Only Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Only_Music.png" tvg-language="Punjabi" group-title="Music",Only Music
 #EXTGRP:Music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
-#EXTINF:-1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music",Boogle Bollywood
+#EXTINF:-1 tvg-id="Boogle.Bollywood.in" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-language="Hindi" group-title="Music",Boogle Bollywood
 #EXTGRP:Music
 http://103.159.180.34:5001/live/962.m3u8
-#EXTINF:-1 tvg-id="1527" tvg-name="Haryanvi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" tvg-language="Punjabi" group-title="Music",Haryanvi Hits
+#EXTINF:-1 tvg-id="Haryanvi.Hits.in" tvg-name="Haryanvi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" tvg-language="Punjabi" group-title="Music",Haryanvi Hits
 #EXTGRP:Music
 https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="1871" tvg-name="7X Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" tvg-language="Punjabi" group-title="Music",7X Music
@@ -458,10 +458,10 @@ https://amg00223-unisys-amg00223c3-lg-in-2050.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="2936" tvg-name="Oye Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Oye_Music.png" tvg-language="Hindi" group-title="Music",Oye Music
 #EXTGRP:Music
 https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8
-#EXTINF:-1 tvg-id="3458" tvg-name="TLC HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDHindi.png" tvg-language="Hindi" group-title="Infotainment",TLC HD Hindi
+#EXTINF:-1 tvg-id="TLC.HD.Hindi.in" tvg-name="TLC HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDHindi.png" tvg-language="Hindi" group-title="Infotainment",TLC HD Hindi
 #EXTGRP:Infotainment
 http://202.70.146.135:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="Hindi" group-title="Infotainment",Travelxp HD Hindi
+#EXTINF:-1 tvg-id="Travelxp.HD.Hindi.in" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="Hindi" group-title="Infotainment",Travelxp HD Hindi
 #EXTGRP:Infotainment
 http://103.159.180.34:5001/live/562.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD
