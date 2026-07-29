@@ -4,4 +4,4 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood" tvg-name="Zee Bollywood" tvg-logo="https://images.jio.com/images/jiotv/192x108/zee_bollywood.png" group-title="Bollywood", Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3eb9c71283384f46634bd0dc3d354e2c:b82b04755c355ebea0ca43bff527b5c7
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBollywood_MOB/WDVLive/index.mpd?__hdnea__=st=1785271068~exp=1785292668~acl=/*~hmac=469363222be9911d829938c2eb4f801ae08cde94b416fc9e80e34f13907d5173
+https://fifa.assadikb.workers.dev/?id=zee_bollywood
