@@ -551,9 +551,6 @@ http://103.253.18.58:8000/play/a00o
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Star_Utsav_Movies_logo.png" group-title="Movies",Star Utsav Movies
 http://149.71.34.166:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-hd-in.png" group-title="Movies",Zee Cinema HD (US)
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://fifa.assadikb.workers.dev/?id=zee_cinema_hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-hd-in.png" group-title="Movies",Zee Cinema HD (US)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f56beaac9f124616872c741c9ce4fa4e":"5d40a903238f4ad98abbed1877d4e3d1"}
 #EXTVLCOPT:http-user-agent=Safari/537.36
